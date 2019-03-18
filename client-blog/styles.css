@@ -1,0 +1,81 @@
+body {
+    background: url(images/fancycrave.jpg);
+    background-size: 100%;
+    text-align: center;
+    font-size: 80px;
+    color: aliceblue;
+    margin-bottom: 3px;
+}
+h1 {
+    margin-block-end: 50px;
+    background-image: url(images/mandala.jpg);
+}
+header {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(240, 248, 255);
+    background-color: rgb(216, 172, 60);
+}
+hr{
+    width: 720px;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: start;
+}
+#vibrant-mandala {
+    display: inline-block;
+    text-align: right;
+}
+#caption {
+    text-align: center
+;
+}
+div.p. {
+    background: black;
+}
+article {
+    margin: auto 70px;
+    background: rgba(255, 182, 193, 0.1);
+}
+.tagline {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+    margin-bottom: 50px;
+    margin-top: 5px;
+    text-align: center;
+}
+.author {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(240, 248, 255);
+    text-align: center;
+}
+a {
+    display: inline-block;
+	padding: 10px;
+	margin: 10px 10px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-decoration: none;
+    transition: ease .5s;
+    font-size: 20px;
+}
+a.first-button {
+	background: transparent;
+	border: 2px solid grey;
+	color: aliceblue;
+}
+a.second-button {
+    background: transparent;
+    border: 2px solid grey;
+    color: aliceblue;
+    size: 20px;
+}
+
+a:hover{
+	background: goldenrod;
+	border: 2px solid white;
+    color: aliceblue;
