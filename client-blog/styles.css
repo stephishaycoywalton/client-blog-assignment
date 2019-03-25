@@ -27,16 +27,7 @@ p {
 }
 #vibrant-mandala {
     display: inline-block;
-    float: right;
-    border: 20px solid rgb(14, 80, 110);
-}
-
-#brittany-aquino {
-    display: inline-block;
-    float: left;
-    border: 20px maroon solid;
-    margin-right: 20px;
-
+    text-align: right;
 }
 #caption {
     text-align: center
