@@ -1,9 +1,18 @@
+.brittany-aquino {
+    display: inline-block;
+    float: left;
+    border: solid 7px #FFC300;
+    margin: 20px;
+    height: 250px;
+    width:400px;
+
+}
 body {
     background: url(images/fancycrave.jpg);
     background-size: 100%;
     text-align: center;
     font-size: 80px;
-    color: aliceblue;
+    color: #f0f8ff;
     margin-bottom: 3px;
 }
 h1 {
@@ -12,38 +21,44 @@ h1 {
 }
 header {
     text-align: center;
-    font-size: 70px;
-    color: rgb(240, 248, 255);
-    background-color: rgb(216, 172, 60);
+    font-size: 50px;
+    color: #f0f8ff;
+    background-color: #d8ac3c;
 }
-hr{
+hr {
     width: 720px;
 }
 p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    color: aliceblue;
+    color: #f0f8ff;
     text-align: start;
 }
 #vibrant-mandala {
     display: inline-block;
+    float: right;
+    height: 512px;
+    width: 375px;
     text-align: right;
+    border: solid 7px #FFC300;
+    margin: 20px;
 }
 #caption {
     text-align: center
 ;
 }
 div.p. {
-    background: black;
+    background: #000000;
 }
 article {
+    background:  #41698a;
     margin: auto 70px;
-    background: rgba(255, 182, 193, 0.1);
+    padding: 30px;
 }
 .tagline {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
-    color: rgb(240, 248, 255);
+    color: #f0f8ff;
     margin-bottom: 50px;
     margin-top: 5px;
     text-align: center;
@@ -51,7 +66,7 @@ article {
 .author {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
-    color: rgb(240, 248, 255);
+    color: #f0f8ff;
     text-align: center;
 }
 a {
@@ -64,18 +79,19 @@ a {
     font-size: 20px;
 }
 a.first-button {
-	background: transparent;
-	border: 2px solid grey;
-	color: aliceblue;
+	background: #070722;
+	border: 2px solid #808080;
+	color: #f0f8ff;
 }
 a.second-button {
-    background: transparent;
-    border: 2px solid grey;
-    color: aliceblue;
+    background: #070722;
+    border: 2px solid #808080;
+    color: #f0f8ff;
+    float: right;
     size: 20px;
 }
 
 a:hover{
-	background: goldenrod;
-	border: 2px solid white;
-    color: aliceblue;
+	background: #daa520;
+	border: 2px solid #ffffff;
+    color: #f0f8ff;
